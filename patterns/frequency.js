@@ -3,7 +3,8 @@
     // Examples:
         // same([1,2,3], [4,1,9]) => true
         // same([1,2,3], [1,9]) => false
-        // same([1,2,1], [4,4,1]) => false (must be same frequency)
+        // same([1,2,1], [4,4,1]) => false 
+        // (must be same frequency)
     
 function hello(str) {
     console.log(str)
