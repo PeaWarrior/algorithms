@@ -1,6 +1,6 @@
 # algorithms
 
-A store for algorithms and patterns.
+A store for algorithms, patterns and data structures.
 
 ## Contibuting
 When commiting, please use the following format.<br>
