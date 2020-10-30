@@ -14,7 +14,8 @@ queue.unshift('first')
 queue.pop()
 // Not very effective for performance as unshifting or shifting re-indexes our array.
 
-// Building a queue from scratch: 
+// Big O | Insertion: O(1), Removal: O(1), Search: O(N), Access: O(N)
+// Building a queue from scratch:
 class Queue {
     constructor() {
         this.first = null
