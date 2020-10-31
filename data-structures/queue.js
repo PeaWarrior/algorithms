@@ -1,4 +1,4 @@
-// A queue is a data structure primarily used to add data in and to remove data out.
+// A queue is a data structure primarily used to add data in, and to remove data out.
 // The order that the data is added and removed is FIFO(first in, first out).
 // Can be implemented using an array or making your own. The latter reduces bloat as arrays come with extra functions we won't need.
 
